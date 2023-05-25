@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class Practical_4_no_4_37853058_Ndou here.
+ * A Java program to display student details..
  *
  * @author (Thuso Ndou)
  * @version (08/04/2023)
