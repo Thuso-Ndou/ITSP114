@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class Practical_1_no_2_37853058_Ndou here.
+ *A Java program to print out a robot face.
  *
  * @author (Thuso Ndou)
  * @version (07/03/2023)
