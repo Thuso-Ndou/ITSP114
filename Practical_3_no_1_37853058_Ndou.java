@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class Practical_3_no_1_37853058_Ndou here.
+ * A java program that calculates the rental price based on the number of days rent out.
  *
  * @author (Thuso Ndou)
  * @version (23/03/2023)
