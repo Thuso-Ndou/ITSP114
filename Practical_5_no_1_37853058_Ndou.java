@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class Practical_5_no_1_37853058_Ndou here.
+ * A java program that determines if a number is negative or positive.
  *
  * @author (Thuso Ndou)
  * @version (13/04/2023)
