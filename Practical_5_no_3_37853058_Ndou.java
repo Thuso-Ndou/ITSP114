@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class Practical_5_no_3_37853058_Ndou here.
+ * A Java program that calculates the salary based on the code.
  *
  * @author (Thuso Ndou)
  * @version (13/04/2023)
