@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class Practical_1_no_3_37853058_Ndou here.
+ * A Java program that displays my name and surname.
  *
  * @author (Thuso Ndou)
  * @version (07/03/2023)
