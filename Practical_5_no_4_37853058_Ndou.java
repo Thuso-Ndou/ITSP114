@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class Practical_5_no_4_37853058_Ndou here.
+ * A Java program to prompt in three marks then prints them from highest to smallest .
  *
  * @author (Thuso Ndou)
  * @version (13/04/2023)
