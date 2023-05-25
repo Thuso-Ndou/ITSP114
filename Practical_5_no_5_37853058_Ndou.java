@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class Practical_5_no_5_37853058_Ndou here.
+ * A java program where you input three names and it displays them alphabetical.
  *
  * @author (Thuso Ndou)
  * @version (13/04/2023)
