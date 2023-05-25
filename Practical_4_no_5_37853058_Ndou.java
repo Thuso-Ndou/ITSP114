@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class Practical_4_no_5_37853058_Ndou here.
+ * A Java program to display details indented to specific positions.
  *
  * @author (Thuso Ndou)
  * @version (08/04/2023)
