@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class Practical_2_no_2_37853058_Ndou here.
+ * A java program that prompt for name, surname and student number then displays the details.
  *
  * @author (Thuso Ndou)
  * @version (114/03/2023)
